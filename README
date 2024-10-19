@@ -2,4 +2,4 @@ SAT Solver GUI Tool for Data Mining (High Utility and Rare Patterns)
 
 This project provides a graphical user interface (GUI) for running SAT solvers to mine high-utility and rare patterns from transactional datasets. 
 The tool supports several approaches, including the mining of classical, maximal, minimal, Top-k, frequent, and locally frequent itemsets, and also supports minimal rare itemset mining.
-The code is available at SAT Solver GUI Tool for Data Mining.
+The code is available at [SAT Solver GUI Tool for Data Mining](https://demo.seafile.com/smart-link/04457841-f4f2-48c4-ace6-81fc77f2ad01/).
